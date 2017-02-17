@@ -1,0 +1,5 @@
+C:\Users\Patri\OneDrive\CSProjects\ArraysBand\ArraysBand\bin\Debug\ArraysBand.exe.config
+C:\Users\Patri\OneDrive\CSProjects\ArraysBand\ArraysBand\bin\Debug\ArraysBand.exe
+C:\Users\Patri\OneDrive\CSProjects\ArraysBand\ArraysBand\bin\Debug\ArraysBand.pdb
+C:\Users\Patri\OneDrive\CSProjects\ArraysBand\ArraysBand\obj\Debug\ArraysBand.exe
+C:\Users\Patri\OneDrive\CSProjects\ArraysBand\ArraysBand\obj\Debug\ArraysBand.pdb
